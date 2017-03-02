@@ -7,6 +7,10 @@ module.exports = function(defaults) {
     // Add options here
   });
 
+  // app.import('vendor/morris/raphael.min.js');
+  // app.import('vendor/morris/morris.js');
+  // app.import('vendor/morris/morris-data.js');
+
   // Use `app.import` to add additional libraries to the generated
   // output files.
   //
